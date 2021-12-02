@@ -6,7 +6,7 @@ I used this for my Obsidian vault, where I wanted to add specific metadata to ev
 
 What I added was this, but you can change that in the "Metadata" string variable. 
 
-\-\-\-
+\---
 Type:
 \- Daily note
 \-\-\-
