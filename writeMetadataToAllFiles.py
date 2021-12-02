@@ -36,7 +36,7 @@ for i in notepath:
     if Metadata in NoteContent:
     	print("Metadata already exists")
     else:
-		AppendToNote(DailyNotesPath)
+	AppendToNote(DailyNotesPath)
 
 if __name__ == "__main__":
 	NotePath()
