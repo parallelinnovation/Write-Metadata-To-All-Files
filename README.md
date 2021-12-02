@@ -9,7 +9,7 @@ What I added was this, but you can change that in the "Metadata" string variable
 \---
 Type:
 \- Daily note
-\-\-\-
+\---
 
 DO NOT run this script directly on your only copy of your files, just in case it runs into an error I haven't seen. Insetead, copy the folder somewhere and run it on the copied folder, then move it back once it's finished. 
 
